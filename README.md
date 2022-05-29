@@ -1,2 +1,4 @@
 # Movie-Recommendation-System
 The is a movie recommendation system , made by using Python, Pandas and Numpy . A dataset is choosen and collaborative filtering is applied to make the recomendations.
+Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general.
+The system uses content-based filtering: A content-based filtering approaches uses a series of discrete characteristics of an item in order to recommend additional items with similar properties. Content-based filtering methods are totally based on a description of the item and a profile of the user’s preferences. It recommends items based on the user’s past preferences.
